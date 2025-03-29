@@ -35,4 +35,4 @@ oneapi:
   url: http://localhost:3000                 # OneAPI server url
   token: your_oneapi_token                   # OneAPI token, see more details in https://github.com/songquanpeng/one-api/blob/main/docs/API.md
   channel_url: http://localhost:3010         # Base url of the channel
-  low_balance_threshold: 50                  # Low balance threshold for OneAPI channels cleaning
+  low_balance_threshold: 100                  # Low balance threshold for OneAPI channels cleaning
